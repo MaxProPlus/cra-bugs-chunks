@@ -25,6 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "/cra-bugs-chunks",
   "eslintConfig": {
     "extends": [
       "react-app",

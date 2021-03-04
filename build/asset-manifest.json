@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/cra-bugs-chunks/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cra-bugs-chunks/static/js/main.a67d5578.chunk.js",
+    "main.js.map": "/cra-bugs-chunks/static/js/main.a67d5578.chunk.js.map",
+    "runtime-main.js": "/cra-bugs-chunks/static/js/runtime-main.66090c64.js",
+    "runtime-main.js.map": "/cra-bugs-chunks/static/js/runtime-main.66090c64.js.map",
+    "static/js/2.6cba65bd.chunk.js": "/cra-bugs-chunks/static/js/2.6cba65bd.chunk.js",
+    "static/js/2.6cba65bd.chunk.js.map": "/cra-bugs-chunks/static/js/2.6cba65bd.chunk.js.map",
+    "static/css/3.ccbbd609.chunk.css": "/cra-bugs-chunks/static/css/3.ccbbd609.chunk.css",
+    "static/js/3.0206edec.chunk.js": "/cra-bugs-chunks/static/js/3.0206edec.chunk.js",
+    "static/js/3.0206edec.chunk.js.map": "/cra-bugs-chunks/static/js/3.0206edec.chunk.js.map",
+    "static/css/4.c6f2c6a2.chunk.css": "/cra-bugs-chunks/static/css/4.c6f2c6a2.chunk.css",
+    "static/js/4.d35f7147.chunk.js": "/cra-bugs-chunks/static/js/4.d35f7147.chunk.js",
+    "static/js/4.d35f7147.chunk.js.map": "/cra-bugs-chunks/static/js/4.d35f7147.chunk.js.map",
+    "static/css/5.c6f2c6a2.chunk.css": "/cra-bugs-chunks/static/css/5.c6f2c6a2.chunk.css",
+    "static/js/5.d74ac834.chunk.js": "/cra-bugs-chunks/static/js/5.d74ac834.chunk.js",
+    "static/js/5.d74ac834.chunk.js.map": "/cra-bugs-chunks/static/js/5.d74ac834.chunk.js.map",
+    "static/css/6.c6f2c6a2.chunk.css": "/cra-bugs-chunks/static/css/6.c6f2c6a2.chunk.css",
+    "static/js/6.415c94be.chunk.js": "/cra-bugs-chunks/static/js/6.415c94be.chunk.js",
+    "static/js/6.415c94be.chunk.js.map": "/cra-bugs-chunks/static/js/6.415c94be.chunk.js.map",
+    "static/js/7.74216361.chunk.js": "/cra-bugs-chunks/static/js/7.74216361.chunk.js",
+    "static/js/7.74216361.chunk.js.map": "/cra-bugs-chunks/static/js/7.74216361.chunk.js.map",
+    "index.html": "/cra-bugs-chunks/index.html",
+    "static/css/3.ccbbd609.chunk.css.map": "/cra-bugs-chunks/static/css/3.ccbbd609.chunk.css.map",
+    "static/css/4.c6f2c6a2.chunk.css.map": "/cra-bugs-chunks/static/css/4.c6f2c6a2.chunk.css.map",
+    "static/css/5.c6f2c6a2.chunk.css.map": "/cra-bugs-chunks/static/css/5.c6f2c6a2.chunk.css.map",
+    "static/css/6.c6f2c6a2.chunk.css.map": "/cra-bugs-chunks/static/css/6.c6f2c6a2.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cra-bugs-chunks/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6cba65bd.chunk.js.LICENSE.txt": "/cra-bugs-chunks/static/js/2.6cba65bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66090c64.js",
+    "static/js/2.6cba65bd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a67d5578.chunk.js"
+  ]
+}

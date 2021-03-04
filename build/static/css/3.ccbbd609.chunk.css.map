@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Button.scss","webpack://src/Page2.scss"],"names":[],"mappings":"AAAA,KACE,2BAA4B,CCD9B,WACE,4BAA6B","file":"3.ccbbd609.chunk.css","sourcesContent":[".btn {\n  border-bottom: solid 2px red;\n}",".btn-page2 {\n  border-bottom: solid 2px aqua;\n}"]}
