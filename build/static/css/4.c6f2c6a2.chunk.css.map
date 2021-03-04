@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/Button.scss"],"names":[],"mappings":"AAAA,KACE,2BAA4B","file":"4.c6f2c6a2.chunk.css","sourcesContent":[".btn {\n  border-bottom: solid 2px red;\n}"]}
